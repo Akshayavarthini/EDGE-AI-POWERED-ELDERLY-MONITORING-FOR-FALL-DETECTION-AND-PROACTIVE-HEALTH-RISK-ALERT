@@ -34,7 +34,7 @@ Alert Notification & IoT Dashboard Update
 └── README.md
 🔧 Setup & Installation
 Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Akshayavarthini/EDGE-AI-POWERED-ELDERLY-MONITORING-FOR-FALL-DETECTION-AND-PROACTIVE-HEALTH-RISK-ALERT.git
 Upload code to ESP32 using Arduino IDE / PlatformIO
 Connect sensors:
 MAX30102 → SpO₂ & Heart Rate
